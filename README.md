@@ -1,6 +1,6 @@
 # Задача 
 
-Для каждого отзыва предсказать все классы затрагиваемых тематик. Отзыв может относиться сразу к нескольким классам. Всего тематик 50.
+Для каждого отзыва (пользовательские ответы на вопрос о сервисе Самокат) предсказать все классы затрагиваемых тематик. Отзыв может относиться сразу к нескольким классам. Всего тематик 50.
 
 # Данные 
 
@@ -37,6 +37,6 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 
 
 ## Автор
-**Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia), [GitHub](https://github.com/ChernayaAnastasia)
+**Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia)
 
 
