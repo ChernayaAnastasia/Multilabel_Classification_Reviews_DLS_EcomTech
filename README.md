@@ -33,7 +33,7 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 ## Ссылки
 [Файл с EDA и аугментацией](https://colab.research.google.com/drive/1cEi2UBUFblA0AvLXDqcTr5SZm6Mw1mEK?usp=sharing)
 
-[Файл с обучением модели и предсказаниями](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
+[Файл с обучением модели и предсказанием](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
 
 
 ## Автор
