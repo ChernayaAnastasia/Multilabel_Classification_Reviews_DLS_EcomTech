@@ -12,6 +12,8 @@
 
 ![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/Screenshot%202024-10-11%20004139.png)
 
+# Метрика
+Accuracy (считается через полное совпадение списка выбранных классов для каждого экземпляра):
 
 # Архитектура модели: 
 
@@ -27,3 +29,14 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 
 # Предобработка
 Предобработаны эмодзи, убраны лишние пробелы и вставлены недостающие, а также был применен Яндекс.Спеллер API для автоматической проверки и исправления орфографических ошибок.
+
+## Ссылки
+[Файл с EDA и аугментацией](https://colab.research.google.com/drive/1cEi2UBUFblA0AvLXDqcTr5SZm6Mw1mEK?usp=sharing)
+
+[Файл с обучением модели и предсказаниями](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
+
+
+## Автор
+**Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia), [GitHub](https://github.com/ChernayaAnastasia)
+
+
