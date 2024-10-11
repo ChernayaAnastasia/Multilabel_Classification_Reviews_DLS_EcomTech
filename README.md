@@ -1,6 +1,6 @@
 # Задача 
 
-Для каждого отзыва (пользовательские ответы на вопрос о сервисе Самокат) предсказать все классы затрагиваемых тематик. Отзыв может относиться сразу к нескольким классам. Всего тематик 50.
+Для каждого отзыва (пользовательские ответы на вопрос о сервисе Самокат) предсказать все классы затрагиваемых тематик. Отзыв может относиться сразу к нескольким классам. Всего тематик 50. Задача решалась в рамках [интенсива "NLP интенсив DLS and Ecom.tech"](https://ods.ai/competitions/dls_ecomtech)
 
 # Данные 
 
@@ -14,6 +14,9 @@
 
 # Метрика
 Accuracy (считается через полное совпадение списка выбранных классов для каждого экземпляра):
+
+from sklearn.metrics import accuracy_score
+
 accuracy_score(all_labels, all_preds)
 
 # Архитектура модели: 
@@ -35,14 +38,14 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 [Открыть в nbviewer тетрадку с EDA и аугментацией данных](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/augment_data_ecom_dls.ipynb)
 
 
-[Открыть в nbviewer тетрадку с обучением модели и предсказанием]()
+[Открыть в nbviewer тетрадку с обучением модели и предсказанием](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/multilabel_classifier_ecom_dls.ipynb)
 
 [Файл с EDA и аугментацией в гугл колаб](https://colab.research.google.com/drive/1cEi2UBUFblA0AvLXDqcTr5SZm6Mw1mEK?usp=sharing)
 
 [Файл с обучением модели и предсказанием в гугл колаб](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
 
-## Результат на leaderboard rpivate
-0.5274261603
+## Результат на leaderboard private
+Accuracy score: 0.5274261603
 
 ## Автор
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia)
