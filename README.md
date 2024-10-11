@@ -14,6 +14,7 @@
 
 # Метрика
 Accuracy (считается через полное совпадение списка выбранных классов для каждого экземпляра):
+accuracy_score(all_labels, all_preds)
 
 # Архитектура модели: 
 
@@ -35,6 +36,8 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 
 [Файл с обучением модели и предсказанием в гугл колаб](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
 
+## Результат на leaderboard rpivate
+0.5274261603
 
 ## Автор
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia)
