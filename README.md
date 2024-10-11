@@ -32,6 +32,11 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 Предобработаны эмодзи, убраны лишние пробелы и вставлены недостающие, а также был применен Яндекс.Спеллер API для автоматической проверки и исправления орфографических ошибок.
 
 ## Ссылки
+[Открыть в nbviewer тетрадку с EDA и аугментацией данных](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/augment_data_ecom_dls.ipynb)
+
+
+[Открыть в nbviewer тетрадку с обучением модели и предсказанием]()
+
 [Файл с EDA и аугментацией в гугл колаб](https://colab.research.google.com/drive/1cEi2UBUFblA0AvLXDqcTr5SZm6Mw1mEK?usp=sharing)
 
 [Файл с обучением модели и предсказанием в гугл колаб](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
