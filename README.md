@@ -35,17 +35,19 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 Предобработаны эмодзи, убраны лишние пробелы и вставлены недостающие, применен Яндекс.Спеллер API для автоматической проверки и исправления орфографических ошибок, а также все тексты отзывов приведены к нижнему регистру.
 
 ## Ссылки
-[Открыть в nbviewer тетрадку с EDA и аугментацией данных](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/augment_data_ecom_dls.ipynb)
-
-
-[Открыть в nbviewer тетрадку с обучением модели и предсказанием](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/multilabel_classifier_ecom_dls.ipynb)
 
 [Файл с EDA и аугментацией в гугл колаб](https://colab.research.google.com/drive/1cEi2UBUFblA0AvLXDqcTr5SZm6Mw1mEK?usp=sharing)
 
 [Файл с обучением модели и предсказанием в гугл колаб](https://colab.research.google.com/drive/1SUErr6RuWoyCGlJqPRqTYVgE9NpOll9Q?usp=sharing)
 
-## Результат на leaderboard private
+[Открыть в nbviewer тетрадку с EDA и аугментацией данных](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/augment_data_ecom_dls.ipynb)
+
+[Открыть в nbviewer тетрадку с обучением модели и предсказанием](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/multilabel_classifier_ecom_dls.ipynb)
+
+
+## Финальный результат на leaderboard private
 Accuracy score: 0.5274261603
+
 
 ## Автор
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia)
