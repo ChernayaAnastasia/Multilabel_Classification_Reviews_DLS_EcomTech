@@ -47,6 +47,7 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 
 ## Финальный результат на leaderboard 
 Accuracy score: 0.5274261603 (private)
+
 Accuracy score: 0.5223847518 (public)
 
 
