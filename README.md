@@ -45,8 +45,9 @@ BERT Transformer Classifier (ai-forever/ruBert-base)
 [Открыть в nbviewer тетрадку с обучением модели и предсказанием](https://nbviewer.org/github/ChernayaAnastasia/Multilabel_Classification_Reviews_DLS_EcomTech/blob/main/multilabel_classifier_ecom_dls.ipynb)
 
 
-## Финальный результат на leaderboard private
-Accuracy score: 0.5274261603
+## Финальный результат на leaderboard 
+Accuracy score: 0.5274261603 (private)
+Accuracy score: 0.5223847518 (public)
 
 
 ## Автор
